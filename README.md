@@ -1,2 +1,2 @@
-# Callout Test 
-REPO for Callout Service/Contract test classes for Salesforce development
+# C3C - Tests 
+REPO for test classes used in Salesforce development.
